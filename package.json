@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.14.1",
+    "diskusage": "^1.2.0",
+    "gifencoder": "^2.0.1",
+    "tail": "^2.2.6"
+  },
+  "name": "discordlogssh",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
