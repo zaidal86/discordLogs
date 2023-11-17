@@ -1,8 +1,6 @@
 const { createCanvas } = require('canvas');
 const fs = require('fs');
 const GIFEncoder = require('gifencoder');
-const client = require('./main.js');
-const { MessageAttachment } = require('discord.js');
 
 function createDualGaugeImage(value1, text1, additionalText1, value2, text2, additionalText2, data) {
     const canvas = createCanvas(800, 250);
